@@ -8,6 +8,6 @@ To use this algorithm, instatiate the class with the number of neighbors you wan
 
 Such as: '''neigh = KNearestNeighbors(n_neighbors=5)'''
 
-No need to encode the class labels, the model will do that for.
+No need to encode the class labels, the model will do that for you.
 It will return the class label names in the prediction as well.
 
